@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Youtube Android Player API Demo</string>
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+    <string name="close_player_activity">Close Player activity</string>
+
+
+    <!--  we need to use video ids instead of video link  -->
+    <string-array name="video_id_array">
+        <item>CqhpNxI8qYw</item>
+        <item>sasCrpgHDy8</item>
+        <item>iJeh3x09Ya8</item>
+        <item>B5zRaD7B504</item>
+        <item>9qWHzj8k-Uo</item>
+        <item>RjiK45wC924</item>
+        <item>RH3zaLO8H4E</item>
+        <item>o14pyzosjvk</item>
+        <item>5SQrpBQne7A</item>
+        <item>5WJ3r67ORxo</item>
+    </string-array>
+
+    <string-array name="video_title_array">
+        <item>Android Security Lock Demo</item>
+        <item>Android Sectioned RecyclerView Demo</item>
+        <item>Android Home Screen Widgets Demo</item>
+        <item>Android Floating Widget like Facebook Messenger Chat Head Demo</item>
+        <item>Android Google Maps Introduction Demo</item>
+        <item>Android Lollipop Activity Transitions Demo</item>
+        <item>Android Toolbar Animation Using Design Support Library Demo</item>
+        <item>Android Material Advance Tabs Demo</item>
+        <item>Android Drag and Drop Demo</item>
+        <item>Android Fingerprint Authentication Demo</item>
+    </string-array>
+
+    <string-array name="video_duration_array">
+        <item>02:48</item>
+        <item>00:44</item>
+        <item>01:01</item>
+        <item>00:55</item>
+        <item>01:03</item>
+        <item>00:25</item>
+        <item>00:34</item>
+        <item>00:45</item>
+        <item>00:52</item>
+        <item>00:28</item>
+    </string-array>
+
+</resources>
